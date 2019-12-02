@@ -1,7 +1,7 @@
 # [Material Kit PRO](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fmaterial-dashboard-pro%2Fexamples%2Fdashboard.html&text=Material%20Kit%20PRO&via=Creative%20Tim&hashtags=creative-tim%20creativetim)
 
 
-![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/EINazare/test-repo1.svg?maxAge=2592000)](https://github.com/EINazare/test-repo1/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/test-repo1.svg?maxAge=2592000)](https://github.com/EINazare/test-repo1/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 
 ![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)
@@ -69,9 +69,12 @@ Design System Same Type (Kit/Dashboard) Version in Icons
 
 ## Quick start
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/test-repo?ref=mkp-readme)
 
 
+- [Download from Github](https://github.com/EINazare/test-repo1/archive/master.zip).
+- [Download from Creative Tim](https://www.creative-tim.com/product/test-repo1?ref=mkp-readme).
+- Clone the repo: `git clone https://github.com/EINazare/test-repo1.git`.
+- `npm i test-repo1`
 
 
 ## Documentation
@@ -96,7 +99,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 - Demo: <https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme>
-- Download Page: <https://www.creative-tim.com/product/test-repo?ref=mkp-readme>
+- Download Page: <https://www.creative-tim.com/product/test-repo1?ref=mkp-readme>
 - Documentation: <https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=mkp-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=mkp-readme>
@@ -148,9 +151,8 @@ We use GitHub Issues as the official bug tracker for the Material Kit PRO. Here 
 - Copyright 2019 Creative Tim (<https://www.creative-tim.com/?ref=mkp-readme>)
 
 
-- Creative Tim [license](https://www.creative-tim.com/license?ref=mkp-readme)
 
-
+- Licensed under MIT (<https://github.com/EINazare/test-repo1/blob/master/LICENSE.md>)
 
 ## Useful Links
 
