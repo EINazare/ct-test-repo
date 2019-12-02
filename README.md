@@ -1,7 +1,7 @@
 # [Material Kit PRO](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fmaterial-dashboard-pro%2Fexamples%2Fdashboard.html&text=Material%20Kit%20PRO&via=Creative%20Tim&hashtags=creative-tim%20creativetim)
 
 
-![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/EINazare/test-repo1.svg?maxAge=2592000)](https://github.com/EINazare/test-repo1/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/test-repo1.svg?maxAge=2592000)](https://github.com/EINazare/test-repo1/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 
 ![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)
@@ -25,29 +25,36 @@ Product Description
 
 ## Versions
 
-Design System Same Type (Kit/Dashboard) Version in Icons
 
-|Material Kit React Native|Material Bootstrap Wizard|Material Kit|
+|
+
+|NextJS Material Kit|Material Kit React Native|Material Bootstrap Wizard|
 | --- | --- | --- |
-| [![Material Kit React Native](https://s3.amazonaws.com/creativetim_bucket/products/144/original/opt_mkrn_thumbnail.jpg?1549467773)](https://www.creative-tim.com/product/material-kit-react-native)  | [![Material Bootstrap Wizard](https://s3.amazonaws.com/creativetim_bucket/products/48/original/opt_mbw_thumbnail.jpg?1472405077)](https://www.creative-tim.com/product/material-bootstrap-wizard)  | [![Material Kit](https://s3.amazonaws.com/creativetim_bucket/products/38/original/opt_mk_thumbnail.jpg?1516963185)](https://www.creative-tim.com/product/material-kit)  |
+| [![NextJS Material Kit](https://s3.amazonaws.com/creativetim_bucket/products/217/original/opt_mk_nextjs_thumbnail.jpg?1568298175)](https://www.creative-tim.com/product/nextjs-material-kit)  | [![Material Kit React Native](https://s3.amazonaws.com/creativetim_bucket/products/144/original/opt_mkrn_thumbnail.jpg?1549467773)](https://www.creative-tim.com/product/material-kit-react-native)  | [![Material Bootstrap Wizard](https://s3.amazonaws.com/creativetim_bucket/products/48/original/opt_mbw_thumbnail.jpg?1472405077)](https://www.creative-tim.com/product/material-bootstrap-wizard)  |
 
 
 
-|Material Kit React|Vue Material Kit|NextJS Material Kit|
+|Material Kit|Material Kit React|Vue Material Kit|
 | --- | --- | --- |
-| [![Material Kit React](https://s3.amazonaws.com/creativetim_bucket/products/83/original/opt_mk_react_thumbnail.jpg?1525851474)](https://www.creative-tim.com/product/material-kit-react)  | [![Vue Material Kit](https://s3.amazonaws.com/creativetim_bucket/products/97/original/opt_mk_vue_thumbnail.jpg?1538041206)](https://www.creative-tim.com/product/vue-material-kit)  | [![NextJS Material Kit](https://s3.amazonaws.com/creativetim_bucket/products/217/original/opt_mk_nextjs_thumbnail.jpg?1568298175)](https://www.creative-tim.com/product/nextjs-material-kit)  |
+| [![Material Kit](https://s3.amazonaws.com/creativetim_bucket/products/38/original/opt_mk_thumbnail.jpg?1516963185)](https://www.creative-tim.com/product/material-kit)  | [![Material Kit React](https://s3.amazonaws.com/creativetim_bucket/products/83/original/opt_mk_react_thumbnail.jpg?1525851474)](https://www.creative-tim.com/product/material-kit-react)  | [![Vue Material Kit](https://s3.amazonaws.com/creativetim_bucket/products/97/original/opt_mk_vue_thumbnail.jpg?1538041206)](https://www.creative-tim.com/product/vue-material-kit)  |
 
 
 
-|Material Kit PRO BS3|Material Kit Pro|Vue Material Kit PRO|
+|Material Kit PRO BS3|Material Kit Pro|Material Kit PRO React|
 | --- | --- | --- |
-| [![Material Kit PRO BS3](https://s3.amazonaws.com/creativetim_bucket/products/70/original/opt_mkp_thumbnail.jpg?1515769052)](https://www.creative-tim.com/product/material-kit-pro-bs3)  | [![Material Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/46/original/opt_mkp_thumbnail.jpg?1515776562)](https://www.creative-tim.com/product/material-kit-pro)  | [![Vue Material Kit PRO](https://s3.amazonaws.com/creativetim_bucket/products/139/original/opt_mkp_vue_thumbnail.jpg?1547651786)](https://www.creative-tim.com/product/vue-material-kit-pro)  |
+| [![Material Kit PRO BS3](https://s3.amazonaws.com/creativetim_bucket/products/70/original/opt_mkp_thumbnail.jpg?1515769052)](https://www.creative-tim.com/product/material-kit-pro-bs3)  | [![Material Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/46/original/opt_mkp_thumbnail.jpg?1515776562)](https://www.creative-tim.com/product/material-kit-pro)  | [![Material Kit PRO React](https://s3.amazonaws.com/creativetim_bucket/products/89/original/opt_mkp_react_thumbnail.jpg?1532091622)](https://www.creative-tim.com/product/material-kit-pro-react)  |
 
 
 
-|Material Kit PRO React|NextJS Material Kit PRO|Material Kit PRO React Native|Material Blog PRO Laravel |
-| --- | --- | --- | --- |
-| [![Material Kit PRO React](https://s3.amazonaws.com/creativetim_bucket/products/89/original/opt_mkp_react_thumbnail.jpg?1532091622)](https://www.creative-tim.com/product/material-kit-pro-react)  | [![NextJS Material Kit PRO](https://s3.amazonaws.com/creativetim_bucket/products/218/original/opt_mkp_nextjs_thumbnail.jpg?1568968829)](https://www.creative-tim.com/product/nextjs-material-kit-pro)  | [![Material Kit PRO React Native](https://s3.amazonaws.com/creativetim_bucket/products/143/original/opt_mkprn_thumbnail.jpg?1549302564)](https://www.creative-tim.com/product/material-kit-pro-react-native)  | [![Material Blog PRO Laravel ](https://s3.amazonaws.com/creativetim_bucket/products/222/original/opt_mb_laravel_thumbnail.jpg?1571907923)](https://www.creative-tim.com/product/material-blog-pro-laravel)  |
+|Vue Material Kit PRO|NextJS Material Kit PRO|
+| --- | --- |
+| [![Vue Material Kit PRO](https://s3.amazonaws.com/creativetim_bucket/products/139/original/opt_mkp_vue_thumbnail.jpg?1547651786)](https://www.creative-tim.com/product/vue-material-kit-pro)  | [![NextJS Material Kit PRO](https://s3.amazonaws.com/creativetim_bucket/products/218/original/opt_mkp_nextjs_thumbnail.jpg?1568968829)](https://www.creative-tim.com/product/nextjs-material-kit-pro)  |
+
+
+
+|Material Kit PRO React Native|Material Blog PRO Laravel |
+| --- | --- |
+| [![Material Kit PRO React Native](https://s3.amazonaws.com/creativetim_bucket/products/143/original/opt_mkprn_thumbnail.jpg?1549302564)](https://www.creative-tim.com/product/material-kit-pro-react-native)  | [![Material Blog PRO Laravel ](https://s3.amazonaws.com/creativetim_bucket/products/222/original/opt_mb_laravel_thumbnail.jpg?1571907923)](https://www.creative-tim.com/product/material-blog-pro-laravel)  |
 
 
 
@@ -69,12 +76,9 @@ Design System Same Type (Kit/Dashboard) Version in Icons
 
 ## Quick start
 
+- Buy from [Creative Tim](https://www.creative-tim.com/product/test-repo?ref=mkp-readme)
 
 
-- [Download from Github](https://github.com/EINazare/test-repo1/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/test-repo1?ref=mkp-readme).
-- Clone the repo: `git clone https://github.com/EINazare/test-repo1.git`.
-- `npm i test-repo1`
 
 
 ## Documentation
@@ -95,16 +99,22 @@ At present, we officially aim to support the last two versions of the following 
 
 | Chrome | Firefox | Edge | Safari | Opera |
 |:---|:---:|:---:|:---:|---:|
-| <img src="https://github.com/EINazare/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
+| <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
 
 ## Resources
 - Demo: <https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme>
-- Download Page: <https://www.creative-tim.com/product/test-repo1?ref=mkp-readme>
+- Download Page: <https://www.creative-tim.com/product/test-repo?ref=mkp-readme>
 - Documentation: <https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=mkp-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=mkp-readme>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues)
 - **Dashboards:**
+
+|Material Dashboard Dark Edition|Material Dashboard|Vue Material Dashboard |
+| --- | --- | --- |
+| [![Material Dashboard Dark Edition](https://s3.amazonaws.com/creativetim_bucket/products/95/original/opt_mdb_thumbnail.jpg?1535551949)](https://www.creative-tim.com/product/material-dashboard-dark)  | [![Material Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/50/original/opt_md_thumbnail.jpg?1522232645)](https://www.creative-tim.com/product/material-dashboard)  | [![Vue Material Dashboard ](https://s3.amazonaws.com/creativetim_bucket/products/81/original/opt_md_vue_thumbnail.jpg?1534938464)](https://www.creative-tim.com/product/vue-material-dashboard)  |
+
+
 
 |Material Dashboard Laravel|Material Dashboard React Nodejs|Material Dashboard React|
 | --- | --- | --- |
@@ -112,27 +122,21 @@ At present, we officially aim to support the last two versions of the following 
 
 
 
-|Vuetify Material Dashboard|Material Dashboard Angular|Material Dashboard Dark Edition|
+|Vuetify Material Dashboard|Material Dashboard Angular|Material Dashboard Pro BS3|
 | --- | --- | --- |
-| [![Vuetify Material Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/100/original/opt_md_vuetify_thumbnail.jpg?1539698855)](https://www.creative-tim.com/product/vuetify-material-dashboard)  | [![Material Dashboard Angular](https://s3.amazonaws.com/creativetim_bucket/products/53/original/opt_md_angular_thumbnail.jpg?1551358074)](https://www.creative-tim.com/product/material-dashboard-angular2)  | [![Material Dashboard Dark Edition](https://s3.amazonaws.com/creativetim_bucket/products/95/original/opt_mdb_thumbnail.jpg?1535551949)](https://www.creative-tim.com/product/material-dashboard-dark)  |
+| [![Vuetify Material Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/100/original/opt_md_vuetify_thumbnail.jpg?1539698855)](https://www.creative-tim.com/product/vuetify-material-dashboard)  | [![Material Dashboard Angular](https://s3.amazonaws.com/creativetim_bucket/products/53/original/opt_md_angular_thumbnail.jpg?1551358074)](https://www.creative-tim.com/product/material-dashboard-angular2)  | [![Material Dashboard Pro BS3](https://s3.amazonaws.com/creativetim_bucket/products/78/original/opt_mdp_thumbnail.jpg?1521133551)](https://www.creative-tim.com/product/material-dashboard-pro-bs3)  |
 
 
 
-|Material Dashboard|Vue Material Dashboard |Material Dashboard Pro|
+|Material Dashboard Pro|Material Dashboard Pro Angular|Vue Material Dashboard PRO|
 | --- | --- | --- |
-| [![Material Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/50/original/opt_md_thumbnail.jpg?1522232645)](https://www.creative-tim.com/product/material-dashboard)  | [![Vue Material Dashboard ](https://s3.amazonaws.com/creativetim_bucket/products/81/original/opt_md_vue_thumbnail.jpg?1534938464)](https://www.creative-tim.com/product/vue-material-dashboard)  | [![Material Dashboard Pro](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://www.creative-tim.com/product/material-dashboard-pro)  |
+| [![Material Dashboard Pro](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://www.creative-tim.com/product/material-dashboard-pro)  | [![Material Dashboard Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/original/opt_mdp_angular_thumbnail.jpg?1551358096)](https://www.creative-tim.com/product/material-dashboard-pro-angular2)  | [![Vue Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/87/original/opt_mdp_vue_thumbnail.jpg?1534938492)](https://www.creative-tim.com/product/vue-material-dashboard-pro)  |
 
 
 
-|Material Dashboard Pro BS3|Material Dashboard Pro React|Vue Material Dashboard PRO|
+|Material Dashboard Pro React|Vuetify Material Dashboard PRO|Material Dashboard Pro Laravel |
 | --- | --- | --- |
-| [![Material Dashboard Pro BS3](https://s3.amazonaws.com/creativetim_bucket/products/78/original/opt_mdp_thumbnail.jpg?1521133551)](https://www.creative-tim.com/product/material-dashboard-pro-bs3)  | [![Material Dashboard Pro React](https://s3.amazonaws.com/creativetim_bucket/products/80/original/opt_mdp_react_thumbnail.jpg?1522160852)](https://www.creative-tim.com/product/material-dashboard-pro-react)  | [![Vue Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/87/original/opt_mdp_vue_thumbnail.jpg?1534938492)](https://www.creative-tim.com/product/vue-material-dashboard-pro)  |
-
-
-
-|Material Dashboard Pro Angular|Vuetify Material Dashboard PRO|Material Dashboard Pro Laravel |
-| --- | --- | --- |
-| [![Material Dashboard Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/original/opt_mdp_angular_thumbnail.jpg?1551358096)](https://www.creative-tim.com/product/material-dashboard-pro-angular2)  | [![Vuetify Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg?1568279033)](https://www.creative-tim.com/product/vuetify-material-dashboard-pro)  | [![Material Dashboard Pro Laravel ](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg?1556007802)](https://www.creative-tim.com/product/material-dashboard-pro-laravel)  |
+| [![Material Dashboard Pro React](https://s3.amazonaws.com/creativetim_bucket/products/80/original/opt_mdp_react_thumbnail.jpg?1522160852)](https://www.creative-tim.com/product/material-dashboard-pro-react)  | [![Vuetify Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg?1568279033)](https://www.creative-tim.com/product/vuetify-material-dashboard-pro)  | [![Material Dashboard Pro Laravel ](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg?1556007802)](https://www.creative-tim.com/product/material-dashboard-pro-laravel)  |
 
 
 
@@ -151,8 +155,9 @@ We use GitHub Issues as the official bug tracker for the Material Kit PRO. Here 
 - Copyright 2019 Creative Tim (<https://www.creative-tim.com/?ref=mkp-readme>)
 
 
+- Creative Tim [license](https://www.creative-tim.com/license?ref=mkp-readme)
 
-- Licensed under MIT (<https://github.com/EINazare/test-repo1/blob/master/LICENSE.md>)
+
 
 ## Useful Links
 
