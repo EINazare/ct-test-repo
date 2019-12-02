@@ -1,7 +1,7 @@
 # [Material Kit PRO](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fmaterial-dashboard-pro%2Fexamples%2Fdashboard.html&text=Material%20Kit%20PRO&via=Creative%20Tim&hashtags=creative-tim%20creativetim)
 
 
-![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-test-repo.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-test-repo/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-test-repo.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-test-repo/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 
 ![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)
@@ -92,7 +92,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | Chrome | Firefox | Edge | Safari | Opera |
 |:---|:---:|:---:|:---:|---:|
-| <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
+| <img src="https://github.com/EINazare/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/EINazare/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
 
 ## Resources
 - Demo: <https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme>
@@ -173,4 +173,4 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
+Instagram: <https://www.instagram.com/EINazare>
