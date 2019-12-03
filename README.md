@@ -1,7 +1,7 @@
-# [Material Kit PRO](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fmaterial-dashboard-pro%2Fexamples%2Fdashboard.html&text=Material%20Kit%20PRO&via=Creative%20Tim&hashtags=creative-tim%20creativetim)
+# <a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme" target="_blank">Material Kit PRO</a> <a href="https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fmaterial-dashboard-pro%2Fexamples%2Fdashboard.html&text=Material%20Kit%20PRO&via=Creative%20Tim&hashtags=creative-tim%20creativetim" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 
-![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/ct-test-repo.svg?maxAge=2592000)](https://github.com/EINazare/ct-test-repo/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-2.1.7-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/EINazare/ct-test-repo/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/EINazare/ct-test-repo.svg?maxAge=2592000)</a> <a href="https://github.com/EINazare/ct-test-repo/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/ct-test-repo.svg?maxAge=2592000)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
 
 
 ![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)
@@ -64,22 +64,22 @@ Product Description
 
 | Dashboard Page | Dashboard Page | Dashboard Page  |
 | --- | --- | ---  |
-| [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme)  | [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme)  | [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](?ref=mkp-readme)
+| <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>  | <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>  | <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>
 
 
 
-[View More](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme)
+<a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme" target="_blank">View More</a>
 
 
 ## Quick start
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/test-repo?ref=mkp-readme)
+- Buy from <a href="https://www.creative-tim.com/product/test-repo?ref=mkp-readme" target="_blank">Creative Tim</a>
 
 
 
 
 ## Documentation
-The documentation for the Material Kit PRO is hosted at our [website](https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme).
+The documentation for the Material Kit PRO is hosted at our <a href="https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme" target="_blank">website</a>.
 
 
 ## File Structure
@@ -99,12 +99,12 @@ At present, we officially aim to support the last two versions of the following 
 | <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
 
 ## Resources
-- Demo: <https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme>
-- Download Page: <https://www.creative-tim.com/product/test-repo?ref=mkp-readme>
-- Documentation: <https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=mkp-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=mkp-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues)
+- Demo: <a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme" target="_blank">https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html</a>
+- Download Page: <a href="https://www.creative-tim.com/product/test-repo?ref=mkp-readme" target="_blank">https://www.creative-tim.com/product/test-repo</a>
+- Documentation: <a href="https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme" target="_blank">https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html</a>
+- License Agreement: <a href="https://www.creative-tim.com/license?ref=mkp-readme" target="_blank">https://www.creative-tim.com/license</a>
+- Support: <a href="https://www.creative-tim.com/contact-us?ref=mkp-readme" target="_blank">https://www.creative-tim.com/contact-us</a>
+- Issues: <a href="https://github.com/creativetimofficial/ct-material-dashboard-pro/issues" target="_blank">Github Issues Page</a>
 - **Dashboards:**
 
 |Material Dashboard Dark Edition|Material Dashboard|Vue Material Dashboard |
@@ -143,7 +143,7 @@ At present, we officially aim to support the last two versions of the following 
 
 We use GitHub Issues as the official bug tracker for the Material Kit PRO. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Kit PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=mkp-readme).
+1. Make sure that you are using the latest version of the Material Kit PRO. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=mkp-readme" target="_blank">website</a>.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -152,29 +152,29 @@ We use GitHub Issues as the official bug tracker for the Material Kit PRO. Here 
 - Copyright 2019 <a href="https://www.creative-tim.com/?ref=mkp-readme" target="_blank">Creative Tim</a>
 
 
-- Creative Tim [license](https://www.creative-tim.com/license?ref=mkp-readme)
+- Creative Tim <a href="https://www.creative-tim.com/license?ref=mkp-readme" target="_blank">license</a>
 
 
 
 ## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=mkp-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=mkp-readme)
-- [Free Products](https://www.creative-tim.com/templates/free?ref=mkp-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/templates/premium?ref=mkp-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/templates/react?ref=mkp-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/templates/angular?ref=mkp-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/templates/vuejs?ref=mkp-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/templates?ref=mkp-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=mkp-readme)
+- <a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w" target="_blank">Tutorials</a>
+- <a href="https://www.creative-tim.com/affiliates/new?ref=mkp-readme" target="_blank">Affiliate Program</a> (earn money)
+- <a href="http://blog.creative-tim.com/?ref=mkp-readme" target="_blank">Blog Creative Tim</a>
+- <a href="https://www.creative-tim.com/templates/free?ref=mkp-readme" target="_blank">Free Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/premium?ref=mkp-readme" target="_blank">Premium Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/react?ref=mkp-readme" target="_blank">React Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/angular?ref=mkp-readme" target="_blank">Angular Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/vuejs?ref=mkp-readme" target="_blank">VueJS Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates?ref=mkp-readme" target="_blank">More products</a> from Creative Tim
+- Check our Bundles <a href="https://www.creative-tim.com/bundles?ref=mkp-readme" target="_blank">here</a>
 
 ### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <a href="https://twitter.com/CreativeTim" target="_blank">https://twitter.com/CreativeTim</a>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https://www.facebook.com/CreativeTim</a>
 
-Dribbble: <https://dribbble.com/creativetim>
+Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
 
-Instagram: <https://www.instagram.com/EINazare>
+Instagram: <a href="https://www.instagram.com/EINazare" target="_blank">https://www.instagram.com/EINazare</a>
