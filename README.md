@@ -99,11 +99,11 @@ At present, we officially aim to support the last two versions of the following 
 | <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
 
 ## Resources
-- Demo: <a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme" target="_blank">https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html</a>
-- Download Page: <a href="https://www.creative-tim.com/product/test-repo?ref=mkp-readme" target="_blank">https://www.creative-tim.com/product/test-repo</a>
-- Documentation: <a href="https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme" target="_blank">https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html</a>
-- License Agreement: <a href="https://www.creative-tim.com/license?ref=mkp-readme" target="_blank">https://www.creative-tim.com/license</a>
-- Support: <a href="https://www.creative-tim.com/contact-us?ref=mkp-readme" target="_blank">https://www.creative-tim.com/contact-us</a>
+- Demo: <a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme" target="_blank">https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme</a>
+- Download Page: <a href="https://www.creative-tim.com/product/test-repo?ref=mkp-readme" target="_blank">https://www.creative-tim.com/product/test-repo?ref=mkp-readme</a>
+- Documentation: <a href="https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme" target="_blank">https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html?ref=mkp-readme</a>
+- License Agreement: <a href="https://www.creative-tim.com/license?ref=mkp-readme" target="_blank">https://www.creative-tim.com/license?ref=mkp-readme</a>
+- Support: <a href="https://www.creative-tim.com/contact-us?ref=mkp-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=mkp-readme</a>
 - Issues: <a href="https://github.com/creativetimofficial/ct-material-dashboard-pro/issues" target="_blank">Github Issues Page</a>
 - **Dashboards:**
 
