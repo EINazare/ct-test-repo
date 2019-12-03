@@ -149,7 +149,7 @@ We use GitHub Issues as the official bug tracker for the Material Kit PRO. Here 
 
 ## Licensing
 
-- Copyright 2019 [Creative Tim](https://www.creative-tim.com/?ref=mkp-readme){:target="_blank"}
+- Copyright 2019 [Creative Tim](https://www.creative-tim.com/?ref=mkp-readme "title" target="_blank"){:target="_blank"}
 
 
 - Creative Tim [license](https://www.creative-tim.com/license?ref=mkp-readme)
