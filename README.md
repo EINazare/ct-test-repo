@@ -25,8 +25,7 @@ Product Description
 
 ## Versions
 
-
-|
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-pro?ref=mkp-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nextjs_logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/nextjs-material-kit-pro?ref=mkp-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-native-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-pro-react-native?ref=mkp-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-pro-react?ref=mkp-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit-pro?ref=mkp-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-blog-pro-laravel?ref=mkp-readme)
 
 |NextJS Material Kit|Material Kit React Native|Material Bootstrap Wizard|
 | --- | --- | --- |
@@ -65,11 +64,9 @@ Product Description
 
 | Dashboard Page | Dashboard Page | Dashboard Page  |
 | --- | --- | ---  |
-| [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme)  | [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme)  | [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme)
+| [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme)  | [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=mkp-readme)  | [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)](?ref=mkp-readme)
 
-| Undefined | Undefined | Undefined  |
-| --- | --- | ---  |
-| [![Undefined](undefined)](undefined?ref=mkp-readme)  | [![Undefined](undefined)](undefined?ref=mkp-readme)  | [![Undefined](undefined)](undefined?ref=mkp-readme)
+
 
 [View More](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mkp-readme)
 
@@ -152,7 +149,7 @@ We use GitHub Issues as the official bug tracker for the Material Kit PRO. Here 
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (<https://www.creative-tim.com/?ref=mkp-readme>)
+- Copyright 2019 [Creative Tim](https://www.creative-tim.com/?ref=mkp-readme){:target="_blank"}
 
 
 - Creative Tim [license](https://www.creative-tim.com/license?ref=mkp-readme)
