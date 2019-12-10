@@ -25,9 +25,15 @@ Paper Kit React is a free Bootstrap 4, React, React Hooks and Reactstrap UI Kit 
 
 ## Versions
 
-<a href="https://www.creative-tim.com/product/paper-kit-react?ref=tr-readme" target="_blank"><img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" /></a>
+<a href="https://www.creative-tim.com/product/test-repo1?ref=tr-readme" target="_blank"><img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" /></a>
 
-|Test Repo1|
+Test Repo 1|
+| --- |
+| <a href="https://www.creative-tim.com/product/test-repo1" target="_blank">![Test Repo 1](https://s3.amazonaws.com/creativetim_bucket/products/165/original/opt_pk_react_thumbnail.jpg?1561532847)</a>  |
+
+
+
+
 
 
 ## Demo
