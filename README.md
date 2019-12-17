@@ -1,1 +1,131 @@
-# Test
+# <a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=map-readme" target="_blank">Material asdfdad PRO</a> <a href="https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fmaterial-dashboard-pro%2Fexamples%2Fdashboard.html&text=Material%20asdfdad%20PRO&via=Creative%20Tim&hashtags=creative-tim%20creativetim" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+
+
+![version](https://img.shields.io/badge/version-2.1.7-blue.svg)  <a href="https://github.com/EINazare/ct-test-repo/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/EINazare/ct-test-repo.svg?maxAge=2592000)</a> <a href="https://github.com/EINazare/ct-test-repo/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/EINazare/ct-test-repo.svg?maxAge=2592000)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
+
+
+![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/165/original/opt_pk_react_thumbnail.jpg?1561532847)
+
+## Table of Contents
+
+* [Description](#description)
+* [File Structure](#file-structure)
+* [Documentation](#documentation)
+* [Demo](#demo)
+* [Quick Start](#quick-start)
+* [Browser Support](#browser-support)
+* [Reporting Issues](#reporting-issues)
+* [Licensing](#licensing)
+* [Useful Links](#useful-links)
+* [Resources](#resources)
+* [Versions](#versions)
+
+
+## Description
+
+Paper Kit React is a free Bootstrap 4, React, React Hooks and Reactstrap UI Kit with pale colors, beautiful typography and thoughtful drawings. We've created it having paper and drawings in mind. 
+
+
+## File Structure
+Within the download you'll find the following directories and files:
+
+```
+Tree View
+```
+
+
+## Documentation
+The documentation for the Material asdfdad PRO is hosted at our <a href="docs_link?ref=map-readme" target="_blank">website</a>.
+
+
+## Demo
+
+| Dashboard Page | Dashboard Page | Dashboard Page  |
+| --- | --- | ---  |
+| <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=map-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>  | <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=map-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>  | <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=map-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>
+
+| Dashboard Page | Dashboard Page | Dashboard Page  |
+| --- | --- | ---  |
+| <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=map-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>  | <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=map-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>  | <a href="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png?ref=map-readme" target="_blank">![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/dashboard-page.png)</a>
+
+<a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=map-readme" target="_blank">View More</a>
+
+
+## Quick start
+
+- Buy from <a href="https://www.creative-tim.com/product/test-repo?ref=map-readme" target="_blank">Creative Tim</a>
+
+
+
+## Browser Support
+
+At present, we officially aim to support the last two versions of the following browsers:
+
+| Chrome | Firefox | Edge | Safari | Opera |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
+
+## Reporting Issues
+
+We use GitHub Issues as the official bug tracker for the Material asdfdad PRO. Here are some advices for our users that want to report an issue:
+
+1. Make sure that you are using the latest version of the Material asdfdad PRO. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=map-readme" target="_blank">website</a>.
+2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
+3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+
+## Licensing
+
+- Copyright 2019 <a href="https://www.creative-tim.com/?ref=map-readme" target="_blank">Creative Tim</a>
+
+
+- Creative Tim <a href="https://www.creative-tim.com/license?ref=map-readme" target="_blank">license</a>
+
+
+
+## Useful Links
+
+- <a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w" target="_blank">Tutorials</a>
+- <a href="https://www.creative-tim.com/affiliates/new?ref=map-readme" target="_blank">Affiliate Program</a> (earn money)
+- <a href="http://blog.creative-tim.com/?ref=map-readme" target="_blank">Blog Creative Tim</a>
+- <a href="https://www.creative-tim.com/templates/free?ref=map-readme" target="_blank">Free Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/premium?ref=map-readme" target="_blank">Premium Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/react?ref=map-readme" target="_blank">React Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/angular?ref=map-readme" target="_blank">Angular Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/vuejs?ref=map-readme" target="_blank">VueJS Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates?ref=map-readme" target="_blank">More products</a> from Creative Tim
+- Check our Bundles <a href="https://www.creative-tim.com/bundles?ref=map-readme" target="_blank">here</a>
+
+### Social Media
+
+Twitter: <a href="https://twitter.com/CreativeTim" target="_blank">https://twitter.com/CreativeTim</a>
+
+Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https://www.facebook.com/CreativeTim</a>
+
+Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
+
+Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_blank">https://www.instagram.com/creativetimofficial/</a>
+
+
+## Resources
+- Demo: <a href="https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=map-readme" target="_blank">https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=map-readme</a>
+- Download Page: <a href="https://www.creative-tim.com/product/test-repo?ref=map-readme" target="_blank">https://www.creative-tim.com/product/test-repo?ref=map-readme</a>
+- Documentation: <a href="docs_link?ref=map-readme" target="_blank">docs_link?ref=map-readme</a>
+- License Agreement: <a href="https://www.creative-tim.com/license?ref=map-readme" target="_blank">https://www.creative-tim.com/license?ref=map-readme</a>
+- Support: <a href="https://www.creative-tim.com/contact-us?ref=map-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=map-readme</a>
+- Issues: <a href="https://github.com/creativetimofficial/material-dashboard/issues" target="_blank">Github Issues Page</a>
+
+
+## Versions
+
+<a href="https://www.creative-tim.com/product/test-repo1?ref=map-readme" target="_blank"><img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" /></a>
+
+### FREE Design Systems (Kits)
+
+Test Repo1|
+| --- |
+| <a href="https://www.creative-tim.com/product/test-repo1" target="_blank">![Test Repo1](https://s3.amazonaws.com/creativetim_bucket/products/165/original/opt_pk_react_thumbnail.jpg?1561532847)</a>  |
+
+
+
+
+
